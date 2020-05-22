@@ -1,1 +1,1 @@
-worker: pom.mxl
+worker: pom.xml
