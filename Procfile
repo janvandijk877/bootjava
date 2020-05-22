@@ -1,1 +1,1 @@
-worker: launcher.bat
+worker: run
