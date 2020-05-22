@@ -1,1 +1,1 @@
-worker: launch.json
+worker: pom.mxl
