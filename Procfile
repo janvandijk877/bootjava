@@ -1,1 +1,1 @@
-worker: run
+worker: launch.json
