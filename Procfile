@@ -1,1 +1,1 @@
-worker: java -jar jmusicBot.jar
+worker: launcher.bat
